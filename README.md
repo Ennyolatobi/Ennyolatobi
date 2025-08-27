@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://cdn.shopify.com/s/files/1/0070/7032/articles/best_20image_20size_20for_20website_4f30442f-6895-4ada-ac35-d7517482a525.png?v=1754924508" alt="Banner">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFt6dJwDGXc6g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1711540240672?e=2147483647&v=beta&t=t7zypK7Fp9I5gsoGzKrH51jU55pIQqfSIcWF5v2kJVk" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>Eniola Omoniyi</strong></h1>
