@@ -10,9 +10,9 @@
 <div align="center">
 
   <!-- Badges -->
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/<Ennyolatobi>?label=follow&style=social">
-  <img alt="Top language" src="https://img.shields.io/github/languages/top/<Ennyolatobi>?style=flat">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=<Ennyolatobi>&color=blue">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ennyolatobi?label=follow&style=social">
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/Ennyolatobi?style=flat">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Ennyolatobi&color=blue">
 
   <!-- Quick links -->
   <p>
