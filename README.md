@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Eniola+Omoniyi+|+Full-Stack+Software+Engineer" alt="Banner">
+  <img src="https://cdn.shopify.com/s/files/1/0070/7032/articles/best_20image_20size_20for_20website_4f30442f-6895-4ada-ac35-d7517482a525.png?v=1754924508" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>Eniola Omoniyi</strong></h1>
