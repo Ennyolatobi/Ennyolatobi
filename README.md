@@ -1,131 +1,172 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFt6dJwDGXc6g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1711540240672?e=2147483647&v=beta&t=t7zypK7Fp9I5gsoGzKrH51jU55pIQqfSIcWF5v2kJVk" alt="Banner">
+  <img src="[https://media.licdn.com/dms/image/v2/D4D16AQFt6dJwDGXc6g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1711540240672?e=2147483647&v=beta&t=t7zypK7Fp9I5gsoGzKrH51jU55pIQqfSIcWF5v2kJVk](https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=)" alt="Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm <strong>Eniola Omoniyi</strong></h1>
-<h3 align="center">🚀 Aspiring Full-Stack Software Engineer | Building technology that is <em>accessible & impactful</em> for everyone  🌍</h3>
+# Hi 👋, I'm Eniola Omoniyi
+🎨 Front-End Developer | Crafting Beautiful, Accessible & User-Centric Web Experiences 🌍
+
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner)
+  
+</div>
 
 ---
 
-<!-- Inspirational Quote -->
-<p align="center"><em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em></p>
+## 💫 About Me
+```javascript
+const eniola = {
+    role: "Front-End Developer",
+    location: "Nigeria 🇳🇬",
+    currentFocus: "Building responsive, accessible web applications",
+    passion: ["Clean Code", "User Experience", "Problem Solving"],
+    funFact: "I turn coffee ☕ into code 💻",
+    mantra: "Learning never stops in tech"
+};
+```
+
+- 🎓 **Certified Front-End Developer** with hands-on project experience
+- 🎯 Specializing in **React**, **JavaScript**, and **Modern CSS frameworks**
+- 🌟 Passionate about **accessibility**, **responsive design**, and **pixel-perfect UIs**
+- 🚀 Turning ideas into interactive digital experiences
+- 📚 Constantly learning and staying updated with the latest web technologies
+
+---
+
+## 🏆 Achievements & Credentials
+
+<div align="center">
+
+| 🎓 Certification | 🏢 Provider | ✅ Status |
+|-----------------|------------|----------|
+| Front-End Developer Certificate | Comprehensive Training Program | Completed |
+| Data Fundamentals | IBM | Certified |
+| Web Development | IBM | Certified |
+| HTML, CSS & JavaScript | OpenClassrooms | Completed |
+| HTML, CSS & JavaScript | Codecademy | Completed |
+| Responsive Web Design | FreeCodeCamp | Completed |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Design & Development Skills
+```
+✓ Responsive Design        ✓ API Integration          ✓ Cross-Browser Compatibility
+✓ Accessibility (ARIA)     ✓ Version Control (Git)    ✓ Mobile-First Development
+✓ Performance Optimization ✓ Component Architecture   ✓ Modern ES6+ JavaScript
+```
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🎬 Movie Finder
+[![Project](https://img.shields.io/badge/🔗_Live_Demo-Movie_Finder-blue?style=for-the-badge)](https://moviefinderbyenny.netlify.app/)
+
+**A dynamic movie database application with real-time search**
+- 🛠️ **Tech Stack:** HTML • Tailwind CSS • JavaScript • REST API
+- ⭐ **Features:** Real-time movie search, detailed info cards, responsive layout
+- 🎯 **Highlights:** Seamless API integration, modern UI design, optimized performance
+
+---
+
+### 💬 Connectly
+[![Project](https://img.shields.io/badge/🔗_Live_Demo-Connectly-green?style=for-the-badge)](https://connectlybyenny.netlify.app/)
+
+**A social media platform built for developers to connect and collaborate**
+- 🛠️ **Tech Stack:** HTML • CSS • JavaScript • Responsive Design
+- ⭐ **Features:** Interactive UI, mobile-responsive, developer-focused features
+- 🎯 **Highlights:** Clean code architecture, smooth animations, user-friendly interface
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+  
+</div>
+
+---
+
+## 🎯 Current Focus & Goals
+```diff
++ 🔹 Mastering advanced React patterns and hooks
++ 🔹 Exploring TypeScript for type-safe applications
++ 🔹 Building more complex, real-world projects
++ 🔹 Contributing to open-source projects
++ 🔹 Enhancing UI/UX design skills
++ 🔹 Learning modern animation libraries (Framer Motion, GSAP)
+```
+
+---
+
+## 💼 Let's Connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eniolaomoniyi.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-tobi-omoniyi-948398381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ennyolaoluwatobiloba@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-<!-- Social Badges -->
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<a href="mailto:ennyolaoluwatobiloba@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/eniola-omoniyi-140266363"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://sites.google.com/view/eniolaomoniyi?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=google-chrome"></a>
+---
 
-<!-- Learning Platforms -->
-<img src="https://img.shields.io/badge/Codecademy-303030?style=for-the-badge&logo=codecademy&logoColor=white">
-<img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white">
-<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-<img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white">
-<img src="https://img.shields.io/badge/ALX-FF0000?style=for-the-badge&logo=alx&logoColor=white">
+### 📈 Profile Views
+![Visitor Count](https://profile-counter.glitch.me/Ennyolatobi/count.svg)
+
+---
+
+**"Code is like humor. When you have to explain it, it's bad."** – *Cory House*
+
+**"The best way to predict the future is to create it."** – *Peter Drucker*
+
+---
+
+<sub>✨ Crafted with 💙 by Eniola Omoniyi | Front-End Developer ✨</sub>
+
+⭐️ From [Ennyolatobi](https://github.com/Ennyolatobi)
+
 </div>
-
----
-
-## 👨‍💻 About Me
-- 🌱 I’m currently enrolled in **ALX Full-Stack Software Engineering Program**  
-- 🔍 Passionate about **turning real-world problems into simple, intuitive digital solutions**  
-- 💡 Driven by **innovation, accessibility, and creating user-friendly applications**  
-- ✍️ Favorite Motto: *"Learning never stops in tech"*  
-
----
-
-## 🎯 My Learning Journey & Credentials
-- ✅ Digital credentials in **Data Fundamentals** and **Web Development Fundamentals** from **IBM**  
-- ✅ Completed **ALX Professional Foundation Course** & earned certificate: *Professional Foundation Skills for the Digital Age*  
-- ✅ Hands-on courses in **HTML, CSS & JAVASCRIPT**  across multiple platforms:
-  - IBM  
-  - OpenClassrooms  
-  - Codecademy  
-  - FreeCodeCamp  
-  - W3Schools  
-- ✅ Currently enrolled in **ALX Full-Stack Web Development track**  
-- ✅ Building **projects that solve real problems** while improving **frontend & backend skills**  
-
----
-
-## 🛠️ Tech & Skills
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
----
-
-## 📚 Roadmap
-- ✅ Build **responsive web pages** (HTML, CSS)  
-- ✅ Deepen **JavaScript** skills for interactive UI  
-- ✅ Learn **React** and component-based development  
-- ✅ Master **Backend fundamentals** (Node.js, Express, REST API)  
-- ✅ Integrate front-end with back-end and deploy full-stack projects  
-- ✅ Polish **portfolio** and prepare for job search  
-
----
-
-## 🚀 Featured Projects
-<details>
-  <summary><strong>Accessible E-commerce UI</strong></summary>
-  <p><strong>Tech:</strong> HTML • CSS • JavaScript • React</p>
-  <p><strong>Description:</strong> An accessibility-first e-commerce platform with keyboard navigation and ARIA standards.</p>
-  <p><strong>Links:</strong> <a href="#">Live Demo</a> | <a href="#">Source Code</a></p>
-</details>
-
-<details>
-  <summary><strong>Local Services Finder</strong></summary>
-  <p><strong>Tech:</strong> React • API Integration • CSS</p>
-  <p><strong>Description:</strong> A web app that helps users discover affordable local services using maps and filters.</p>
-  <p><strong>Links:</strong> <a href="#">Live Demo</a> | <a href="#">Source Code</a></p>
-</details>
-
----
-
-
-## 📊 GitHub Stats & Most Used Languages
-<p align="center">
-  <!-- GitHub Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennyolatobi&layout=compact&langs_count=8&hide=scss,less,java&include_all_commits=true&show_icons=true&hide_border=false&theme=default" alt="Top Languages" />
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ennyolatobi&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&theme=default" alt="GitHub Stats" />
-</p>
-
-
----
-## 🖥️ Tech Stack Summary
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
----
-
-## 📬 Contact Me
-📧 Email: **ennyolaoluwatobiloba@gmail.com**  
-🔗 Portfolio: [Click Here](https://sites.google.com/view/eniolaomoniyi?usp=sharing)  
-💼 LinkedIn: [Click Here](https://www.linkedin.com/in/eniola-omoniyi-140266363)  
-
----
-
-<p align="center"><em>“The best way to predict the future is to create it.” – Peter Drucker</em></p>
-<p align="center">✨ Made with ❤️ | Learning at <strong>ALX Full-Stack</strong> ✨</p>
