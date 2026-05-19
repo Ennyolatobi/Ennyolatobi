@@ -12,7 +12,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-eniolaomoniyi.netlify.app-4F7FFF?style=flat-square&logo=google-chrome&logoColor=white)](https://eniolaomoniyi.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eniola_Omoniyi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-tobi-omoniyi-948398381)
-[![Email](https://img.shields.io/badge/Email-ennyolaoluwatobiloba@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ennyolaoluwatobiloba@gmail.com)
+[![Email](https://img.shields.io/badge/Email-eniolatobiomoniyi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eniolatobiomoniyi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ennyolatobi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ennyolatobi)
 
 </div>
@@ -21,7 +21,7 @@
 
 ## About
 
-Frontend engineer with production experience shipping client-facing platforms across multiple industries. I focus on the intersection of UI architecture, performance engineering, and accessible design — building systems that are fast, scalable, and maintainable at the component level.
+Frontend engineer with production experience shipping client-facing platforms across multiple industries. I focus on the intersection of UI architecture, performance engineering, and accessible design, building systems that are fast, scalable, and maintainable at the component level.
 
 Currently shipping work that spans luxury mobility, logistics, corporate wellness, and nonprofit sectors. My engineering approach prioritises measurable outcomes: load time improvements, Core Web Vitals targets, and accessibility compliance alongside visual delivery.
 
@@ -56,7 +56,7 @@ Cross-Browser Compatibility →  Consistent delivery across Chrome, Firefox, Saf
 
 ## Featured Work
 
-### AgencyOS — Frontend Agency Management Platform
+### AgencyOS | Frontend Agency Management Platform
 
 A production-grade internal tool built to manage client projects, track Core Web Vitals, and generate performance reports across an agency portfolio. Built from real operational pain after shipping 20+ client sites with no centralised tracking system.
 
@@ -64,7 +64,7 @@ A production-grade internal tool built to manage client projects, track Core Web
 - Zustand with `persist` middleware for cross-session state without a backend
 - Sequential PageSpeed API calls with error boundary handling to prevent rate-limit failures
 - URL-driven filter architecture on the project board
-- Design token system via CSS custom properties — full theme control from one file
+- Design token system via CSS custom properties, full theme control from one file
 - Dual-view project board (list + kanban) sharing a single data layer
 
 `React 18` `React Router v6` `Zustand` `Recharts` `Google PageSpeed Insights API` `CSS Custom Properties`
@@ -74,7 +74,7 @@ A production-grade internal tool built to manage client projects, track Core Web
 
 ---
 
-### OLH Mobility — Luxury Brand Platform
+### OLH Mobility | Luxury Brand Platform
 
 Client-facing website for a premium mobility and luxury services brand. Engineered for sub-2s load time with a design system aligned to the brand's luxury positioning. Achieved 94 Lighthouse performance score in production.
 
@@ -89,7 +89,7 @@ Client-facing website for a premium mobility and luxury services brand. Engineer
 
 ---
 
-### Haybee Global Automotive — Dealership Platform
+### Haybee Global Automotive | Dealership Platform
 
 Conversion-focused dealership platform with inventory browsing, filtering, and enquiry flows. Engineered for discoverability with structured markup and performance-first rendering.
 
@@ -111,7 +111,7 @@ A production-pattern storefront demonstrating cart state architecture, URL-drive
 
 `React` `React Query` `Zustand` `React Hook Form` `React Router v6` `DummyJSON API`
 
-**AgencyOS v2 — SaaS Platform** *(in planning)*
+**AgencyOS v2 | SaaS Platform** *(in planning)*
 Evolving AgencyOS from a single-user tool into a multi-tenant SaaS platform. Adding Supabase Auth, Postgres with row-level security, deadline notification emails via Edge Functions, and per-user data isolation.
 
 `React` `Supabase` `Postgres` `Row-Level Security` `Resend` `Vercel`
@@ -143,7 +143,7 @@ I'm open to frontend engineering roles, contract work, and product collaboration
 
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-4F7FFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eniolaomoniyi.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-tobi-omoniyi-948398381)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ennyolaoluwatobiloba@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eniolatobiomoniyi@gmail.com)
 
 </div>
 
