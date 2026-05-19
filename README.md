@@ -1,147 +1,149 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=" alt="Banner">
-</p>
+<div align="center">
 
-# Hi 👋, I'm Eniola Omoniyi
-🎨 Front-End Developer | Crafting Beautiful, Accessible & User-Centric Web Experiences 🌍
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F7FFF&height=120&section=header&fontSize=0" width="100%"/>
+
+</div>
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner)
-  
+
+# Eniola Omoniyi
+
+**Frontend Engineer** · Building production-grade web systems across logistics, luxury, wellness, and e-commerce
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-eniolaomoniyi.netlify.app-4F7FFF?style=flat-square&logo=google-chrome&logoColor=white)](https://eniolaomoniyi.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eniola_Omoniyi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-tobi-omoniyi-948398381)
+[![Email](https://img.shields.io/badge/Email-ennyolaoluwatobiloba@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ennyolaoluwatobiloba@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ennyolatobi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ennyolatobi)
+
 </div>
 
 ---
 
-## 💫 About Me
-```javascript
-const eniola = {
-    role: "Front-End Developer",
-    location: "Nigeria 🇳🇬",
-    currentFocus: "Building responsive, accessible web applications",
-    passion: ["Clean Code", "User Experience", "Problem Solving"],
-    funFact: "I turn coffee ☕ into code 💻",
-    mantra: "Learning never stops in tech"
-};
+## About
+
+Frontend engineer with production experience shipping client-facing platforms across multiple industries. I focus on the intersection of UI architecture, performance engineering, and accessible design — building systems that are fast, scalable, and maintainable at the component level.
+
+Currently shipping work that spans luxury mobility, logistics, corporate wellness, and nonprofit sectors. My engineering approach prioritises measurable outcomes: load time improvements, Core Web Vitals targets, and accessibility compliance alongside visual delivery.
+
+I build with React as my primary framework, treating the frontend as a system — not a collection of pages.
+
+---
+
+## Engineering Focus
+
 ```
-
-- 🎓 **Certified Front-End Developer** with hands-on project experience
-- 🎯 Specializing in **React**, **JavaScript**, and **Modern CSS frameworks**
-- 🌟 Passionate about **accessibility**, **responsive design**, and **pixel-perfect UIs**
-- 🚀 Turning ideas into interactive digital experiences
-- 📚 Constantly learning and staying updated with the latest web technologies
-
----
-
-## 🏆 Achievements & Credentials
-
-<div align="center">
-
-| 🎓 Certification | 🏢 Provider | ✅ Status |
-|-----------------|------------|----------|
-| Front-End Developer Certificate | Comprehensive Training Program | Completed |
-| Data Fundamentals | IBM | Certified |
-| Web Development | IBM | Certified |
-| HTML, CSS & JavaScript | OpenClassrooms | Completed |
-| HTML, CSS & JavaScript | Codecademy | Completed |
-| Responsive Web Design | FreeCodeCamp | Completed |
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Design & Development Skills
-```
-✓ Responsive Design        ✓ API Integration          ✓ Cross-Browser Compatibility
-✓ Accessibility (ARIA)     ✓ Version Control (Git)    ✓ Mobile-First Development
-✓ Performance Optimization ✓ Component Architecture   ✓ Modern ES6+ JavaScript
-```
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🎬 Movie Finder
-[![Project](https://img.shields.io/badge/🔗_Live_Demo-Movie_Finder-blue?style=for-the-badge)](https://moviefinderbyenny.netlify.app/)
-
-**A dynamic movie database application with real-time search**
-- 🛠️ **Tech Stack:** HTML • Tailwind CSS • JavaScript • REST API
-- ⭐ **Features:** Real-time movie search, detailed info cards, responsive layout
-- 🎯 **Highlights:** Seamless API integration, modern UI design, optimized performance
-
----
-
-### 💬 Connectly
-[![Project](https://img.shields.io/badge/🔗_Live_Demo-Connectly-green?style=for-the-badge)](https://connectlybyenny.netlify.app/)
-
-**A social media platform built for developers to connect and collaborate**
-- 🛠️ **Tech Stack:** HTML • CSS • JavaScript • Responsive Design
-- ⭐ **Features:** Interactive UI, mobile-responsive, developer-focused features
-- 🎯 **Highlights:** Clean code architecture, smooth animations, user-friendly interface
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-  
-</div>
-
----
-
-## 🎯 Current Focus & Goals
-```diff
-+ 🔹 Mastering advanced React patterns and hooks
-+ 🔹 Exploring TypeScript for type-safe applications
-+ 🔹 Building more complex, real-world projects
-+ 🔹 Contributing to open-source projects
-+ 🔹 Enhancing UI/UX design skills
-+ 🔹 Learning modern animation libraries (Framer Motion, GSAP)
+Component Architecture      →  Scalable, composable UI systems built for reuse across products
+Performance Optimisation    →  Core Web Vitals, LCP/CLS targets, bundle analysis, lazy loading
+Responsive Systems          →  Mobile-first layouts engineered to work across every viewport
+Accessibility               →  WCAG-compliant interfaces with semantic HTML and ARIA patterns
+API-Driven Interfaces       →  REST API integration with proper loading, error, and empty states
+State Architecture          →  Zustand, Context API, and React Query for scalable data flows
+SEO-Focused Frontend        →  Structured markup, meta strategy, and performance-first rendering
+Cross-Browser Compatibility →  Consistent delivery across Chrome, Firefox, Safari, and Edge
 ```
 
 ---
 
-## 💼 Let's Connect!
+## Tech Stack
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eniolaomoniyi.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-tobi-omoniyi-948398381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ennyolaoluwatobiloba@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,git,github,vscode,figma,firebase,nodejs&perline=6)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Featured Work
+
+### AgencyOS — Frontend Agency Management Platform
+
+A production-grade internal tool built to manage client projects, track Core Web Vitals, and generate performance reports across an agency portfolio. Built from real operational pain after shipping 20+ client sites with no centralised tracking system.
+
+**Engineering decisions worth noting:**
+- Zustand with `persist` middleware for cross-session state without a backend
+- Sequential PageSpeed API calls with error boundary handling to prevent rate-limit failures
+- URL-driven filter architecture on the project board
+- Design token system via CSS custom properties — full theme control from one file
+- Dual-view project board (list + kanban) sharing a single data layer
+
+`React 18` `React Router v6` `Zustand` `Recharts` `Google PageSpeed Insights API` `CSS Custom Properties`
+
+[![Live](https://img.shields.io/badge/Live_Demo-4F7FFF?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+---
+
+### OLH Mobility — Luxury Brand Platform
+
+Client-facing website for a premium mobility and luxury services brand. Engineered for sub-2s load time with a design system aligned to the brand's luxury positioning. Achieved 94 Lighthouse performance score in production.
+
+**Engineering decisions worth noting:**
+- Performance budget enforced from the start — every asset optimised before deployment
+- Pixel-precise implementation from Figma with zero design deviation on delivery
+- Responsive system built mobile-first across 5 breakpoints
+
+`JavaScript` `React` `Tailwind CSS` `Performance Optimisation` `Responsive Design`
+
+[![Live](https://img.shields.io/badge/Live_Site-4F7FFF?style=flat-square&logo=google-chrome&logoColor=white)](https://olhmobilityservices.com)
+
+---
+
+### Haybee Global Automotive — Dealership Platform
+
+Conversion-focused dealership platform with inventory browsing, filtering, and enquiry flows. Engineered for discoverability with structured markup and performance-first rendering.
+
+**Engineering decisions worth noting:**
+- Inventory filter system built for fast client-side filtering without API overhead
+- Schema markup and semantic HTML for dealership SEO requirements
+- Mobile-optimised enquiry flow reducing friction to contact
+
+`HTML5` `CSS3` `JavaScript` `SEO` `Responsive Design`
+
+[![Live](https://img.shields.io/badge/Live_Site-4F7FFF?style=flat-square&logo=google-chrome&logoColor=white)](https://haybeeglobalautomobile.netlify.app)
+
+---
+
+## Currently Building
+
+**Multi-Tenant E-commerce Storefront**
+A production-pattern storefront demonstrating cart state architecture, URL-driven filtering, React Query data fetching, skeleton loading states, and React Hook Form validation. Engineered to reflect the patterns used in real product company codebases.
+
+`React` `React Query` `Zustand` `React Hook Form` `React Router v6` `DummyJSON API`
+
+**AgencyOS v2 — SaaS Platform** *(in planning)*
+Evolving AgencyOS from a single-user tool into a multi-tenant SaaS platform. Adding Supabase Auth, Postgres with row-level security, deadline notification emails via Edge Functions, and per-user data isolation.
+
+`React` `Supabase` `Postgres` `Row-Level Security` `Resend` `Vercel`
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=Ennyolatobi&show_icons=true&theme=transparent&hide_border=true&title_color=4F7FFF&icon_color=4F7FFF&text_color=8B92A5&bg_color=00000000" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennyolatobi&layout=compact&theme=transparent&hide_border=true&title_color=4F7FFF&text_color=8B92A5&bg_color=00000000&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ennyolatobi&theme=react-dark&hide_border=true&bg_color=0C0E12&color=4F7FFF&line=4F7FFF&point=ffffff&area=true&area_color=4F7FFF" width="100%" />
+
+</div>
+
+---
+
+## Let's Work Together
+
+I'm open to frontend engineering roles, contract work, and product collaborations.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-4F7FFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eniolaomoniyi.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-tobi-omoniyi-948398381)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ennyolaoluwatobiloba@gmail.com)
 
 </div>
 
@@ -149,24 +151,8 @@ const eniola = {
 
 <div align="center">
 
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Ennyolatobi&style=flat-square&color=4F7FFF&label=Profile+Views)
 
----
-
-### 📈 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/Ennyolatobi/count.svg)
-
----
-
-**"Code is like humor. When you have to explain it, it's bad."** – *Cory House*
-
-**"The best way to predict the future is to create it."** – *Peter Drucker*
-
----
-
-<sub>✨ Crafted with 💙 by Eniola Omoniyi | Front-End Developer ✨</sub>
-
-⭐️ From [Ennyolatobi](https://github.com/Ennyolatobi)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F7FFF&height=80&section=footer&fontSize=0" width="100%"/>
 
 </div>
