@@ -25,7 +25,7 @@ Frontend engineer with production experience shipping client-facing platforms ac
 
 Currently shipping work that spans luxury mobility, logistics, corporate wellness, and nonprofit sectors. My engineering approach prioritises measurable outcomes: load time improvements, Core Web Vitals targets, and accessibility compliance alongside visual delivery.
 
-I build with React as my primary framework, treating the frontend as a system — not a collection of pages.
+I build with React as my primary framework, treating the frontend as a system, not a collection of pages.
 
 ---
 
@@ -79,7 +79,7 @@ A production-grade internal tool built to manage client projects, track Core Web
 Client-facing website for a premium mobility and luxury services brand. Engineered for sub-2s load time with a design system aligned to the brand's luxury positioning. Achieved 94 Lighthouse performance score in production.
 
 **Engineering decisions worth noting:**
-- Performance budget enforced from the start — every asset optimised before deployment
+- Performance budget enforced from the start, every asset optimised before deployment
 - Pixel-precise implementation from Figma with zero design deviation on delivery
 - Responsive system built mobile-first across 5 breakpoints
 
