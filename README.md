@@ -69,7 +69,7 @@ A production-grade internal tool built to manage client projects, track Core Web
 
 `React 18` `React Router v6` `Zustand` `Recharts` `Google PageSpeed Insights API` `CSS Custom Properties`
 
-[![Live](https://img.shields.io/badge/Live_Demo-4F7FFF?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-4F7FFF?style=flat-square&logo=vercel&logoColor=white)](https://agency-os-pearl.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
 
 ---
