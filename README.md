@@ -70,7 +70,7 @@ A production-grade internal tool built to manage client projects, track Core Web
 `React 18` `React Router v6` `Zustand` `Recharts` `Google PageSpeed Insights API` `CSS Custom Properties`
 
 [![Live](https://img.shields.io/badge/Live_Demo-4F7FFF?style=flat-square&logo=vercel&logoColor=white)](https://agency-os-pearl.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ennyolatobi/agency-os)
 
 ---
 
@@ -102,8 +102,8 @@ A production-grade React application helping users discover African recipes, pla
 
 `React 19` `Vite` `Zustand` `LocalStorage` `Levenshtein Search` `CSS Modules`
 
-[![Live](https://img.shields.io/badge/Live_Demo-4F7FFF?style=flat-square&logo=vercel&logoColor=white)](https://your-pantrypal-link.com)
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Live_Demo-4F7FFF?style=flat-square&logo=vercel&logoColor=white)]([https://your-pantrypal-link.com](https://pantry-pal-vert.vercel.app/))
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ennyolatobi/pantry-pal)
 
 ---
 
