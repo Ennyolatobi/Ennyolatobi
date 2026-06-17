@@ -89,18 +89,21 @@ Client-facing website for a premium mobility and luxury services brand. Engineer
 
 ---
 
-### Haybee Global Automotive | Dealership Platform
+### PantryPal | African-First Recipe Platform
 
-Conversion-focused dealership platform with inventory browsing, filtering, and enquiry flows. Engineered for discoverability with structured markup and performance-first rendering.
+A production-grade React application helping users discover African recipes, plan meals, and cook within budget. Built with an offline-first architecture, intelligent search, and persistent local state to deliver a seamless user experience without requiring authentication.
 
 **Engineering decisions worth noting:**
-- Inventory filter system built for fast client-side filtering without API overhead
-- Schema markup and semantic HTML for dealership SEO requirements
-- Mobile-optimised enquiry flow reducing friction to contact
+- Custom fuzzy search using Levenshtein distance for typo-tolerant recipe discovery
+- Zustand-powered global state with persistent user preferences and meal plans
+- Local-first architecture with localStorage for fast, backend-free performance
+- Budget-based recipe filtering and pantry matching algorithms for personalized results
+- Modular component architecture designed for scalability and maintainability
 
-`HTML5` `CSS3` `JavaScript` `SEO` `Responsive Design`
+`React 19` `Vite` `Zustand` `LocalStorage` `Levenshtein Search` `CSS Modules`
 
-[![Live](https://img.shields.io/badge/Live_Site-4F7FFF?style=flat-square&logo=google-chrome&logoColor=white)](https://haybeeglobalautomobile.netlify.app)
+[![Live](https://img.shields.io/badge/Live_Demo-4F7FFF?style=flat-square&logo=vercel&logoColor=white)](https://your-pantrypal-link.com)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
 
 ---
 
