@@ -4,120 +4,205 @@
 
 </div>
 
+
+
 <div align="center">
 
 # Eniola Omoniyi
 
-**Frontend Engineer** · Building production-grade web systems across logistics, luxury, wellness, and e-commerce
+### Web & Mobile Frontend Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-eniolaomoniyi.netlify.app-4F7FFF?style=flat-square&logo=google-chrome&logoColor=white)](https://eniolaomoniyi.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eniola_Omoniyi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-tobi-omoniyi-948398381)
-[![Email](https://img.shields.io/badge/Email-eniolatobiomoniyi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eniolatobiomoniyi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ennyolatobi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ennyolatobi)
+Building thoughtful web and mobile experiences with React, React Native, and JavaScript.
+
+<br />
+
+<a href="https://eniolaomoniyi.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0B1220?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/eniola-tobi-omoniyi-948398381/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-Frontend engineer with production experience shipping client-facing platforms across multiple industries. I focus on the intersection of UI architecture, performance engineering, and accessible design, building systems that are fast, scalable, and maintainable at the component level.
+I'm **Eniola Omoniyi**, a Web & Mobile Frontend Developer who enjoys turning ideas into digital experiences that feel intuitive, responsive, and useful.
 
-Currently shipping work that spans luxury mobility, logistics, corporate wellness, and nonprofit sectors. My engineering approach prioritises measurable outcomes: load time improvements, Core Web Vitals targets, and accessibility compliance alongside visual delivery.
+My journey has taken me from building websites to developing mobile applications with React Native. Every project teaches me something new about understanding users, solving problems, connecting APIs, and paying attention to the details that make an application feel complete.
 
-I build with React as my primary framework, treating the frontend as a system, not a collection of pages.
+I'm an **ALX graduate, a University of Ibadan alumna, and a TechCrush mobile development graduate**. Beyond writing code, I enjoy seeing an idea evolve from a simple concept into something people can actually use.
+
+I believe great frontend development is about more than making things look good. It's about making them work well, feel natural, and serve a real purpose.
+
+<details>
+<summary><strong>A little more about my journey</strong></summary>
+
+<br />
+
+- Started with web development and continue to grow my skills in the React ecosystem.
+- Expanded into mobile development with React Native and Expo.
+- Collaborated with a team to build Atmos, a weather application powered by Open-Meteo.
+- Serve as volunteer CTO at Abimbs Reach Foundation, contributing to its digital presence and donation experience.
+- Always exploring better ways to build, learn, and turn ideas into useful products.
+
+</details>
 
 ---
 
-## Engineering Focus
-
-```
-Component Architecture      →  Scalable, composable UI systems built for reuse across products
-Performance Optimisation    →  Core Web Vitals, LCP/CLS targets, bundle analysis, lazy loading
-Responsive Systems          →  Mobile-first layouts engineered to work across every viewport
-Accessibility               →  WCAG-compliant interfaces with semantic HTML and ARIA patterns
-API-Driven Interfaces       →  REST API integration with proper loading, error, and empty states
-State Architecture          →  Zustand, Context API, and React Query for scalable data flows
-SEO-Focused Frontend        →  Structured markup, meta strategy, and performance-first rendering
-Cross-Browser Compatibility →  Consistent delivery across Chrome, Firefox, Safari, and Edge
-```
-
----
-
-## Tech Stack
+## My Frontend Toolkit
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,git,github,vscode,figma,firebase,nodejs&perline=6)](https://skillicons.dev)
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="HTML, CSS, JavaScript, React and Vite" />
+
+**Mobile Development**
+
+<img src="https://skillicons.dev/icons?i=react,ts,expo" alt="React Native, TypeScript and Expo" />
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code and Figma" />
 
 </div>
 
----
-
-## Featured Work
-
-### AgencyOS | Frontend Agency Management Platform
-
-A production-grade internal tool built to manage client projects, track Core Web Vitals, and generate performance reports across an agency portfolio. Built from real operational pain after shipping 20+ client sites with no centralised tracking system.
-
-**Engineering decisions worth noting:**
-- Zustand with `persist` middleware for cross-session state without a backend
-- Sequential PageSpeed API calls with error boundary handling to prevent rate-limit failures
-- URL-driven filter architecture on the project board
-- Design token system via CSS custom properties, full theme control from one file
-- Dual-view project board (list + kanban) sharing a single data layer
-
-`React 18` `React Router v6` `Zustand` `Recharts` `Google PageSpeed Insights API` `CSS Custom Properties`
-
-[![Live](https://img.shields.io/badge/Live_Demo-4F7FFF?style=flat-square&logo=vercel&logoColor=white)](https://agency-os-pearl.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ennyolatobi/agency-os)
+I also work with REST APIs, application state, responsive layouts, form handling, and third-party integrations.
 
 ---
 
-### OLH Mobility | Luxury Brand Platform
+## Selected Work
 
-Client-facing website for a premium mobility and luxury services brand. Engineered for sub-2s load time with a design system aligned to the brand's luxury positioning. Achieved 94 Lighthouse performance score in production.
+*Different ideas, different challenges, one common thread: building useful digital experiences.*
 
-**Engineering decisions worth noting:**
-- Performance budget enforced from the start, every asset optimised before deployment
-- Pixel-precise implementation from Figma with zero design deviation on delivery
-- Responsive system built mobile-first across 5 breakpoints
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`JavaScript` `React` `Tailwind CSS` `Performance Optimisation` `Responsive Design`
+<h3>Atmos</h3>
 
-[![Live](https://img.shields.io/badge/Live_Site-4F7FFF?style=flat-square&logo=google-chrome&logoColor=white)](https://olhmobilityservices.com)
+<p><strong>Know your atmosphere.</strong></p>
+
+<p>A team-built weather application created to make checking the weather simple and informative.</p>
+
+<ul>
+<li>Current conditions and five-day forecasts</li>
+<li>City search and recent locations</li>
+<li>Celsius and Fahrenheit support</li>
+<li>Light and dark themes</li>
+<li>Weather data powered by Open-Meteo</li>
+</ul>
+
+<p><strong>Stack:</strong> React Native, Expo, TypeScript, Open-Meteo API</p>
+
+<a href="https://atmos--afy48hmmp5.expo.app">Live application</a> · <a href="https://github.com/Ennyolatobi/atmos-weather-viewer">Source code</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Episodic</h3>
+
+<p><strong>Find your next watch.</strong></p>
+
+<p>A movie discovery application that brings film information into an interactive browsing experience using an external movie API.</p>
+
+<ul>
+<li>API-powered movie discovery</li>
+<li>Dynamic movie content</li>
+<li>Interactive browsing experience</li>
+</ul>
+
+<p><strong>Stack:</strong> React, JavaScript, REST API</p>
+
+<a href="https://episodic.vercel.app/">Live application</a> · <a href="https://github.com/Ennyolatobi/Episodic">Source code</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>PantryPal</h3>
+
+<p><strong>Make more of what's in your kitchen.</strong></p>
+
+<p>A recipe discovery project exploring practical ways to help users find meals based on available ingredients and preferences.</p>
+
+<ul>
+<li>Ingredient-based recipe discovery</li>
+<li>Search and filtering</li>
+<li>Local state persistence</li>
+<li>Budget-conscious meal exploration</li>
+</ul>
+
+<p><strong>Stack:</strong> React, JavaScript, Vite, Zustand</p>
+
+<a href="https://github.com/Ennyolatobi/pantry-pal">Explore the repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Abimbs Reach Foundation</h3>
+
+<p><strong>Digital experiences with a purpose.</strong></p>
+
+<p>As a volunteer CTO, I contribute to the foundation's digital presence and tools that help connect its mission with people who want to support it.</p>
+
+<ul>
+<li>Website development and improvements</li>
+<li>Content management</li>
+<li>Online donations through Flutterwave</li>
+<li>Donation records and confirmation flows</li>
+</ul>
+
+<p><strong>Stack:</strong> HTML, CSS, JavaScript, PHP, Flutterwave</p>
+
+<a href="https://abimbsreach.com">Visit the foundation</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### PantryPal | African-First Recipe Platform
+## How I Approach Development
 
-A production-grade React application helping users discover African recipes, plan meals, and cook within budget. Built with an offline-first architecture, intelligent search, and persistent local state to deliver a seamless user experience without requiring authentication.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Engineering decisions worth noting:**
-- Custom fuzzy search using Levenshtein distance for typo-tolerant recipe discovery
-- Zustand-powered global state with persistent user preferences and meal plans
-- Local-first architecture with localStorage for fast, backend-free performance
-- Budget-based recipe filtering and pantry matching algorithms for personalized results
-- Modular component architecture designed for scalability and maintainability
+<h3>User-focused interfaces</h3>
 
-`React 19` `Vite` `Zustand` `LocalStorage` `Levenshtein Search` `CSS Modules`
+I think about the people using a product, the problems they need it to solve, and how to make the experience intuitive.
 
-[![Live](https://img.shields.io/badge/Live_Demo-4F7FFF?style=flat-square&logo=vercel&logoColor=white)](https://pantry-pal-vert.vercel.app)
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ennyolatobi/pantry-pal)
+</td>
+<td width="50%" valign="top">
 
----
+<h3>Responsive by design</h3>
 
-## Currently Building
+I aim to create interfaces that feel considered and usable across mobile, tablet, and desktop screens.
 
-**Multi-Tenant E-commerce Storefront**
-A production-pattern storefront demonstrating cart state architecture, URL-driven filtering, React Query data fetching, skeleton loading states, and React Hook Form validation. Engineered to reflect the patterns used in real product company codebases.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`React` `React Query` `Zustand` `React Hook Form` `React Router v6` `DummyJSON API`
+<h3>Functionality that matters</h3>
 
-**AgencyOS v2 | SaaS Platform** *(in planning)*
-Evolving AgencyOS from a single-user tool into a multi-tenant SaaS platform. Adding Supabase Auth, Postgres with row-level security, deadline notification emails via Edge Functions, and per-user data isolation.
+I work to connect interfaces to real data, APIs, and meaningful interactions, not just static screens.
 
-`React` `Supabase` `Postgres` `Row-Level Security` `Resend` `Vercel`
+</td>
+<td width="50%" valign="top">
+
+<h3>Always improving</h3>
+
+Every project is an opportunity to strengthen my technical skills, refine my decisions, and learn something new.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -125,30 +210,41 @@ Evolving AgencyOS from a single-user tool into a multi-tenant SaaS platform. Add
 
 <div align="center">
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=Ennyolatobi&show_icons=true&theme=transparent&hide_border=true&title_color=4F7FFF&icon_color=4F7FFF&text_color=8B92A5&bg_color=00000000" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennyolatobi&layout=compact&theme=transparent&hide_border=true&title_color=4F7FFF&text_color=8B92A5&bg_color=00000000&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ennyolatobi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennyolatobi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Most-used languages in public repositories" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ennyolatobi&theme=react-dark&hide_border=true&bg_color=0C0E12&color=4F7FFF&line=4F7FFF&point=ffffff&area=true&area_color=4F7FFF" width="100%" />
-
-</div>
+<p align="center">
+  <em>My public repositories offer a window into what I'm learning, building, and exploring.</em>
+</p>
 
 ---
 
-## Let's Work Together
+## What's Next?
 
-I'm open to frontend engineering roles, contract work, and product collaborations.
+I'm continuing to deepen my skills across web and mobile development, strengthen my React and React Native knowledge, and explore better ways to build reliable, user-friendly applications.
+
+I'm especially interested in collaborating with people who care about thoughtful product design, good engineering, and creating technology that makes a difference.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-4F7FFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eniolaomoniyi.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-tobi-omoniyi-948398381)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eniolatobiomoniyi@gmail.com)
+### Let's Connect
+
+<a href="https://eniolaomoniyi.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0B1220?style=for-the-badge&logo=vercel&logoColor=7DD3FC" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/eniola-tobi-omoniyi-948398381/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br /><br />
+
+**Thanks for stopping by. Explore my work, and let's build something meaningful.**
 
 </div>
+
 
 ---
 
